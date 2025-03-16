@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Léo!
 
 
-- 🔭 Atualmente trabalhando como Desenvolvedor Junior, com foco em me tornar um desenvolvedor full stack Mobile
-- 🌱 Tenho estudado Java e Javascript
+- 🔭 Desenvolvedor Full Stack
+  
 - Aceito seu feedback!
 
 <div>
